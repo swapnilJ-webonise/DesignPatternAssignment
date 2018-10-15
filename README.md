@@ -1,3 +1,9 @@
+List of Design Patterns:
+Creational Pattern : Factory 
+Structural Pattern : Decorator
+Behavioral Pattern : Strategy 
+
+
 # DesignPatternAssignment
 
 Mobile Phone from OOPS session to be modified to implement design patterns
